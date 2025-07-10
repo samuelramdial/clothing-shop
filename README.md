@@ -21,3 +21,4 @@ Project developed for:
 - **ITSC 1212 - Introduction to Computer Science I**
 - Instructor: D.I. Von Briesen
 - University of North Carolina at Charlotte
+© 2025 Samuel Ramdial
