@@ -16,9 +16,11 @@ This console-based Java application allows two users (shop owner and customer) t
   - Computes subtotal, tax (7.5%) and total
   - Displays date/time and outputs a professional receipt
   - Implements a clean `toString()` method for easy printing
-## Acknowledgements 
+## Acknowledgments 
 Project developed for: 
 - **ITSC 1212 - Introduction to Computer Science I**
-- Instructor: D.I. Von Briesen
+- Professor: D.I. Von Briesen
 - University of North Carolina at Charlotte
+  
 © 2025 Samuel Ramdial
+
